@@ -9,6 +9,8 @@ The purpose of the modules exercises it is to go through version control main st
   - adding changes to staging area
   - committing changes
   - pushing those changes to remote origin  
+  - creating new branches
+  - merging and deleting branches
 
 ## Questions
 
